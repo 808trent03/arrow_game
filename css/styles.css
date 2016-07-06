@@ -1,7 +1,10 @@
 #div1{
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 	width: 150px;
-	height: 70px;
+	height: 75px;
 	display: block;
 	background-color: blue;
 	text-align:center;
@@ -23,13 +26,16 @@
 }
 
 #left{
-	height: 90px;
-	width: 130px;
+	height:90px;
+	width:130px;
 }
 
+<<<<<<< Updated upstream
 border-style:{ solid;
 	height:650px;
 	width:1340px
 	
 }
 	;
+=======
+>>>>>>> Stashed changes
