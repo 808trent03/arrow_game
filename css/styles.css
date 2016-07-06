@@ -1,0 +1,22 @@
+#div1{
+	width: 150px;
+	height: 75px;
+	display: block;
+	background-color: blue;
+	text-align:center;
+
+}
+
+#div2{
+	width: 150px;
+	height: 400px;
+	display: block;
+	background-color: red;
+}
+
+#div3{
+	width: 150px;
+	height: 100px;
+	display: block;
+	background-color: blue;
+}
