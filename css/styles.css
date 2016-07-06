@@ -1,6 +1,7 @@
 #div1{
+<<<<<<< HEAD
 	width: 150px;
-	height: 75px;
+	height: 70px;
 	display: block;
 	background-color: blue;
 	text-align:center;
@@ -20,3 +21,18 @@
 	display: block;
 	background-color: blue;
 }
+
+#left{
+	height: 90px;
+	width: 130px;
+}
+=======
+border-style: solid;
+	height:650px;
+	width:1340px
+	
+}
+	;
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
