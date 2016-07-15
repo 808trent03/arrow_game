@@ -1,42 +1,267 @@
-#div1{
-<<<<<<< HEAD
+body{
+    text-align: center;
+    width: 75%;
+}
 
-=======
->>>>>>> origin/master
-	width: 150px;
-	height: 75px;
-	display: block;
-	background-color: blue;
-	text-align:center;
+#hi{
+    background-color: white;
+    width: 845.9px;
+    height: 110px;
+    z-index: 100000000000;
+    margin: -9.599px;
+}
+
+#div1{     
+    width: 150px;
+    height: 50px;
+    display: block;
+    background-color: blue;
+    text-align:center;
 
 }
 
 #div2{
-	width: 150px;
-	height: 400px;
-	display: block;
-	background-color: red;
+    width: 150px;
+    height: 400px;
+    display: block;
+    background-color: red;
 }
 
 #div3{
-	width: 150px;
-	height: 100px;
-	display: block;
-	background-color: blue;
+    width: 150px;
+    height: 100px;
+    display: block;
+    background-color: blue;
 }
 
 #left{
-	height:90px;
-	width:130px;
+    height: 90px;
+    width: 130px;
 }
 
-<<<<<<< HEAD
+#div04{
 
-border-style:{ solid;
-	height:650px;
-	width:1340px
-	
+    width: 150px;
+    height: 50px;
+    display: block;
+    background-color: blue;
+    text-align:center;
+
 }
-	;
-=======
->>>>>>> origin/master
+
+#div05{
+    width: 150px;
+    height: 400px;
+    display: block;
+    background-color: red;
+}
+
+#div06{
+    width: 150px;
+    height: 100px;
+    display: block;
+    background-color: blue;
+}
+
+#down{
+    height: 100px;
+    width: 130px;
+}
+
+
+#div07{
+
+    width: 150px;
+    height: 50px;
+    display: block;
+    background-color: blue;
+    text-align:center;
+
+}
+
+#div08{
+    width: 150px;
+    height: 400px;
+    display: block;
+    background-color: red;
+}
+
+#div09{
+    width: 150px;
+    height: 100px;
+    display: block;
+    background-color: blue;
+}
+
+#up{
+    height: 100px;
+    width: 130px;
+}
+
+
+#div010{
+
+    width: 150px;
+    height: 50px;
+    display: block;
+    background-color: blue;
+    text-align:center;
+
+}
+
+#div011{
+    width: 150px;
+    height: 400px;
+    display: block;
+    background-color: red;
+}
+
+#div012{
+    width: 150px;
+    height: 100px;
+    display: block;
+    background-color: blue;
+}
+
+#right{
+    height: 100px;
+    width: 140px;
+}
+
+.column{
+    display: block;
+    float: left;
+    width: 22.5%;
+    margin-left:1px;
+}
+
+
+div#one {
+    float: left;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    background: aquamarine;
+    position :relative;
+    -webkit-animation: mymove 5s infinite;
+    animation: mymove 5s infinite;
+}
+
+@-webkit-keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+
+@keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+
+
+div#two {
+    float: left;
+    width: 100px;
+    height: 100px;
+    z-index: 10;
+    background: purple;
+    position :relative;
+    -webkit-animation: mymove 3s infinite; 
+    animation: mymove 2 infinite;
+
+}
+
+
+
+@-webkit-keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+
+@keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+div#three {
+    float: left;
+    width: 100px;
+    height: 100px;
+    z-index: 4;
+    background: green;
+    position :relative;
+    -webkit-animation: mymove 10s infinite;
+    animation: mymove 10s infinite;
+
+}
+
+
+
+@-webkit-keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+
+@keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+div#four {
+    float: left;
+    width: 100px;
+    height: 100px;
+    z-index: 6;
+
+    background: orange;
+    position :relative;
+    -webkit-animation: mymove 7s infinite;
+    animation: mymove 7s infinite;
+
+}
+
+
+@-webkit-keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+
+@keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    25%  {top: 50px}
+    25% {top: 500px;}
+}
+
+div#two{
+    margin-left:139.5px;
+}
+
+div#three{
+    margin-left:150px;
+}
+
+div#four{
+    margin-left:150px;
+}
+
+   
+
